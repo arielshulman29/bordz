@@ -1,0 +1,4 @@
+.env
+/seeds
+/test
+/node_modules

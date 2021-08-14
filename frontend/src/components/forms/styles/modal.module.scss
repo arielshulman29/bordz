@@ -1,0 +1,32 @@
+
+.imageSize{
+    height: 300px!important;
+    object-fit: contain!important;
+}
+
+.price{
+    font-weight: 600;
+}
+
+.modalStyle{
+    font-size:0.8em;
+    padding: 2em!important;
+}
+
+.imageThumb{
+    height: 60px!important;
+    object-fit: contain!important;
+    border: 1px solid #d4d2d2!important;
+}
+
+.saveButton{
+    font-weight: 600!important;
+    margin-top:1em;
+    display:block;
+}
+
+input:focus{   
+//   border-color: rgba(164, 249, 255, 0.8);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.075)!important;
+  outline: 0 none!important;
+}
